@@ -30,7 +30,8 @@ Este es un programa de consola que permite realizar conversiones entre diferente
 ### **Opciones Adicionales**:
 
 - Al finalizar una conversión, puedes realizar otra o salir del programa.
-- Ejemplo de uso:
+EJ:
+
 ![image](https://github.com/user-attachments/assets/bbc37536-5dd6-43bf-abfe-2ca416d96e45)
 
 - Para que el codigo funcione correctamente se debe configurar la apiKey.
