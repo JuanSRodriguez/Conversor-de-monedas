@@ -4,7 +4,7 @@ Este es un programa de consola que permite realizar conversiones entre diferente
 
 ## **Características**
 
-- **Conversión precisa**: Utiliza tasas de cambio en tiempo real proporcionadas por **ExchangeRate-API**.
+- **Conversión**: Utiliza tasas de cambio en tiempo real proporcionadas por **ExchangeRate-API**.
 - **Soporte para múltiples monedas**: Compatible con divisas comunes como USD, COP, EUR, MXN, entre otras.
 - **Interfaz interactiva**: Menú sencillo para ingresar monedas, montos y realizar varias conversiones en una sola sesión.
 - **Procesamiento de JSON**: Usa **Gson** para manejar y analizar las respuestas JSON de la API.
