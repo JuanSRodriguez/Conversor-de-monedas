@@ -34,6 +34,6 @@ EJ:
 
 ![image](https://github.com/user-attachments/assets/bbc37536-5dd6-43bf-abfe-2ca416d96e45)
 
-- Para que el codigo funcione correctamente se debe configurar la apiKey.
+- Para que el código funcione correctamente se debe configurar la apiKey.
 - Se debe integrar la libreria de Gson.
 
